@@ -24,6 +24,7 @@ README
 Described in depth over at my Linkedin: 
 
 Part one : https://www.linkedin.com/pulse/movie-recommendations-1-data-analysis-pre-processing-del-popolo/?trackingId=1CyJtBiUR%2Fe4B3fsJmUVVQ%3D%3D
+
 Part two : https://www.linkedin.com/pulse/movie-recommendations-2-data-analysis-filtering-100-best-del-popolo/?trackingId=1CyJtBiUR%2Fe4B3fsJmUVVQ%3D%3D
 
 In this project, we embarked on a comprehensive analysis of a movie reviews dataset. We meticulously worked on data preprocessing, analysis, and visualization to prepare the data for training predictive models. This README provides a brief synopsis of the methodologies implemented and the outputs generated during the process.
