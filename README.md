@@ -29,11 +29,11 @@ Process Overview
 
    **Data Visualization**  Post data preprocessing, we engaged in data visualization, where we plotted graphs to observe trends in both the removed and remaining critics' datasets. The visualization enabled us to notice normalization trends and further understand the relationship between the number of reviews and the scores assigned.
 
-    **Top Reviewers Identification** : Following visualization, we identified the top 100 reviewers based on the number of reviews they contributed. This step enabled us to create a robust dataset comprising only the critiques from the best reviewers, setting a reliable ground for the subsequent analysis.
+  **Top Reviewers Identification** : Following visualization, we identified the top 100 reviewers based on the number of reviews they contributed. This step enabled us to create a robust dataset comprising only the critiques from the best reviewers, setting a reliable ground for the subsequent analysis.
 
-    **Data Normalization** : In this phase, the scores for each critic were normalized by calculating the mean and standard deviation of their respective scores. This normalization was instrumental in eliminating potential bias that might have arisen due to individual critic tendencies.
+  **Data Normalization** : In this phase, the scores for each critic were normalized by calculating the mean and standard deviation of their respective scores. This normalization was instrumental in eliminating potential bias that might have arisen due to individual critic tendencies.
 
-    **Normalized Data Analysis** : The normalized data was then analyzed, correlating the number of reviews with normalized scores. This analysis unearthed interesting patterns and potential areas for focused studies, particularly looking into reviews with unusually low normalized scores.
+  **Normalized Data Analysis** : The normalized data was then analyzed, correlating the number of reviews with normalized scores. This analysis unearthed interesting patterns and potential areas for focused studies, particularly looking into reviews with unusually low normalized scores.
 
 **Output Files**
     remaining_critics.csv: This file consists of the data concerning critics who have posted 10 or more reviews. It includes an average numeric score for each critic, helping to normalize the data.
