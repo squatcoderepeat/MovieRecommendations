@@ -22,11 +22,12 @@ README
 **Introduction**
 
 In this project, we embarked on a comprehensive analysis of a movie reviews dataset. We meticulously worked on data preprocessing, analysis, and visualization to prepare the data for training predictive models. This README provides a brief synopsis of the methodologies implemented and the outputs generated during the process.
+
 Process Overview
 
    **Data Preprocessing** and Grouping: In the initial stages, the dataset underwent a cleaning process where the data was grouped by critic names to identify and filter out critics with less than 10 reviews, considering them as insignificant for the analysis. Meanwhile, critics with 10 or more reviews were earmarked for further analysis.
 
-   **Data Visualization** : Post data preprocessing, we engaged in data visualization, where we plotted graphs to observe trends in both the removed and remaining critics' datasets. The visualization enabled us to notice normalization trends and further understand the relationship between the number of reviews and the scores assigned.
+   **Data Visualization**  Post data preprocessing, we engaged in data visualization, where we plotted graphs to observe trends in both the removed and remaining critics' datasets. The visualization enabled us to notice normalization trends and further understand the relationship between the number of reviews and the scores assigned.
 
     **Top Reviewers Identification** : Following visualization, we identified the top 100 reviewers based on the number of reviews they contributed. This step enabled us to create a robust dataset comprising only the critiques from the best reviewers, setting a reliable ground for the subsequent analysis.
 
