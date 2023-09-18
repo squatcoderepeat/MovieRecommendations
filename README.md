@@ -15,7 +15,10 @@
 ⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠀⠀⠀⠀⠀⠀
 
 
-Movie Reviews Data Analysis README
+Movie Reviews Data Analysis 
+
+README
+
 **Introduction**
 
 In this project, we embarked on a comprehensive analysis of a movie reviews dataset. We meticulously worked on data preprocessing, analysis, and visualization to prepare the data for training predictive models. This README provides a brief synopsis of the methodologies implemented and the outputs generated during the process.
